@@ -5,10 +5,10 @@
  *
  * Return: Alwatys 0 (success)
  */
-int main(void)
 
+int main(void)
 {
-	puts ("\"programming is like building a multilinqual puzzle");
+	puts("\"programming is like building a multilinguan puzzle");
 	return (0);
-	
+
 }
