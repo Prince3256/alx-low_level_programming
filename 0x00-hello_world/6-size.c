@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - Entry Point
+ * main - print out c data type
  *
  * Return: Always 0 (Success)
- */
+*/
 int main(void)
 {
-
 	char c;
 	int d;
 	long int ld;
