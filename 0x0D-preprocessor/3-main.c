@@ -7,7 +7,7 @@
  *
  * Return: Always 0.
  */
-int maint (void)
+int main(void)
 {
 	int i;
 	int j;
